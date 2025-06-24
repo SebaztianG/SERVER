@@ -1,6 +1,7 @@
 {
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_mountains": "2025-06-24 00:34:46 +0000",
       "minecraft:forest": "2025-06-23 23:55:12 +0000"
     },
     "done": false

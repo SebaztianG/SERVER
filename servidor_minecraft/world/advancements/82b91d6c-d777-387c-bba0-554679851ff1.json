@@ -1,0 +1,10 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_mountains": "2025-06-24 00:34:42 +0000",
+      "minecraft:forest": "2025-06-24 00:34:36 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}
