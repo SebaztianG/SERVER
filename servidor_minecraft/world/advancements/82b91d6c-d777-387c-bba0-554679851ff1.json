@@ -1,8 +1,42 @@
 {
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-24 00:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-24 00:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-24 00:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-06-24 00:35:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-06-24 00:35:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_mountains": "2025-06-24 00:34:42 +0000",
-      "minecraft:forest": "2025-06-24 00:34:36 +0000"
+      "minecraft:forest": "2025-06-24 00:34:36 +0000",
+      "minecraft:mountains": "2025-06-24 00:35:39 +0000",
+      "minecraft:snowy_tundra": "2025-06-24 00:35:06 +0000",
+      "minecraft:frozen_river": "2025-06-24 00:35:35 +0000",
+      "minecraft:river": "2025-06-24 00:35:38 +0000"
     },
     "done": false
   },
